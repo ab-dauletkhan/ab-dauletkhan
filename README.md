@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+[![Profile Views](https://komarev.com/ghpvc/?username=ab-dauletkhan)](https://github.com/ab-dauletkhan)
 
 <!---
 ab-dauletkhan/ab-dauletkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
