@@ -2,7 +2,8 @@
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [ab.dauletkhan@gmail.com](mailto:ab.dauletkhan@gmail.com)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=ab-dauletkhan)](https://github.com/ab-dauletkhan)
 
 <!---
