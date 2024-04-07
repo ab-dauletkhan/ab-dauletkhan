@@ -25,7 +25,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Junior Software Developer"
+    "Junior Software Developer",
     "Intern - Java Back-end Developer",
   ]
   
