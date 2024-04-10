@@ -1,7 +1,7 @@
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="43"
-         width="43" /> I'm Dauletkhan</h1>
+         width="43" /> Hi, I'm Dauletkhan</h1>
 
 
 <h2> 👨🏻‍💻 About Me</h2>
