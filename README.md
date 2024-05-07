@@ -25,6 +25,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Middle Python Developer",
     "Junior Software Developer",
     "Intern - Java Back-end Developer",
   ]
