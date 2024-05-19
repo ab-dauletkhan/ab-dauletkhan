@@ -13,8 +13,8 @@ located_in: Astana, Kazakhstan
 current_job: Python Back-end Developer
 education:
   [
-    "Self-Taught Full Stack Developer with UI/UX experience",
     "Bachelor of Science in Computer Science",
+    "Self-Taught Back-end Developer with UI/UX experience",
   ]
 company: AstanaHub
 
