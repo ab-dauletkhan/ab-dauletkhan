@@ -5,7 +5,7 @@
 
 
 <h2> 👨🏻‍💻 About Me</h2>
-<!-- I am in love with @ademizain -->
+<!-- In love with @ademizain -->
 
 ```yaml
 name: Dauletkhan Assanov
@@ -31,7 +31,7 @@ technical_background:
     "Intern - Java Back-end Developer",
   ]
   
-currently_learning: ["Websockets, FastAPI"]
+currently_learning: Golang
 ```
   
 ---  
