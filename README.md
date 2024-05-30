@@ -10,13 +10,13 @@
 ```yaml
 name: Dauletkhan Assanov
 located_in: Astana, Kazakhstan
-current_job: Python Back-end Developer
+current_job: Go Back-end Developer
 education:
   [
     "Bachelor of Science in Computer Science",
     "Self-Taught Back-end Developer with UI/UX experience",
   ]
-company: AstanaHub
+company: 01.edu
 
 fields_of_interests:
   [
