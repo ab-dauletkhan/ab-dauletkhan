@@ -13,7 +13,7 @@ located_in: Astana, Kazakhstan
 current_job: Go Back-end Developer
 education:
   [
-    "Bachelor of Science in Computer Science",
+    "Pursuing Bachelor of Science in Computer Science",
     "Self-Taught Back-end Developer with UI/UX experience",
   ]
 company: 01.edu
