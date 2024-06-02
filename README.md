@@ -5,7 +5,6 @@
 
 
 <h2> 👨🏻‍💻 About Me</h2>
-<!-- In love with @ademizain -->
 
 ```yaml
 name: Dauletkhan Assanov
