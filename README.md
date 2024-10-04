@@ -13,9 +13,8 @@ current_job: Go Back-end Developer
 education:
   [
     "Pursuing Bachelor of Science in Computer Science",
-    "Self-Taught Back-end Developer with UI/UX experience",
+    "Self-Taught Back-end Developer with Frontend experience",
   ]
-company: 01.edu
 
 fields_of_interests:
   [
@@ -25,12 +24,11 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Python Developer",
+    "Go & Python Developer",
     "Junior Software Developer",
     "Intern - Java Back-end Developer",
   ]
   
-currently_learning: Golang
 ```
   
 ---  
