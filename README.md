@@ -8,29 +8,54 @@
 
 ```yaml
 name: Dauletkhan Assanov
-located_in: Astana, Kazakhstan
-current_job: Go Back-end Developer
-education:
-  [
-    "Pursuing Bachelor of Science in Computer Science",
-    "Self-Taught Back-end Developer with Frontend experience",
-  ]
+contact:
+  email: ab.dauletkhan@gmail.com
+  mobile: +7-705-700-2361
+  location: 010000, Astana, Kazakhstan
+links:
+  github: github.com/ab-dauletkhan
+  linkedin: linkedin.com/in/ab-dauletkhan
 
-fields_of_interests:
-  [
-    "Web Development",
-    "DevOps",
-    "Machine Learning",
-  ]
-technical_background:
-  [
-    "Go & Python Developer",
-    "Junior Software Developer",
-    "Intern - Java Back-end Developer",
-  ]
-  
+education:
+    degree: Bachelor of Science in Computer Science
+    institution: Nazarbayev University, Astana, Kazakhstan
+    period: Aug 2022 – Jun 2026
+    coursework: Software Engineering, Database Systems, Computer Systems and Organization,
+                Performance and Data Structures, Algorithms, Artificial Intelligence,
+                Formal Languages, Discrete Math, Linear Algebra, Probability
+
+experience:
+  - title: Software Development Engineer
+    company: AstanaHub
+    location: Astana, Kazakhstan
+    period: Feb 2024 – Jul 2024
+    responsibilities:
+      - Designed and implemented distributed microservices using Go
+      - Implemented Test-Driven Development (TDD) with 1,200+ lines of unit tests
+      - Designed and optimized database schemas for PostgreSQL
+      - Automated CI/CD pipelines using AWS tools
+      - Developed data processing pipelines
+
+  - title: Software Engineer Intern
+    company: Ismet.kz
+    location: Astana, Kazakhstan
+    period: Mar 2023 – Aug 2023
+    responsibilities:
+      - Designed and implemented a distributed user activity tracking system using Java
+      - Developed and optimized string matching algorithms
+      - Conducted comprehensive analysis of existing codebase
+
+awards:
+    name: Meta Back-end Developer Professional Certificate
+    issuer: Coursera
+    date: Oct 2023 – Dec 2023
+
+    name: 'NeHackathon' by Ismet.kz
+    description: Hackathon Winner. 2nd place out of 40 teams
+    location: Astana, Kazakhstan
+    date: Feb 2023
 ```
-  
+
 ---  
   
 <h2> 🚀 &nbsp;Skills</h2>
