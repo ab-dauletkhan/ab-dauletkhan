@@ -24,27 +24,6 @@ education:
                 Performance and Data Structures, Algorithms, Artificial Intelligence,
                 Formal Languages, Discrete Math, Linear Algebra, Probability
 
-experience:
-  - title: Software Development Engineer
-    company: AstanaHub
-    location: Astana, Kazakhstan
-    period: Feb 2024 – Jul 2024
-    responsibilities:
-      - Designed and implemented distributed microservices using Go
-      - Implemented Test-Driven Development (TDD) with 1,200+ lines of unit tests
-      - Designed and optimized database schemas for PostgreSQL
-      - Automated CI/CD pipelines using AWS tools
-      - Developed data processing pipelines
-
-  - title: Software Engineer Intern
-    company: Ismet.kz
-    location: Astana, Kazakhstan
-    period: Mar 2023 – Aug 2023
-    responsibilities:
-      - Designed and implemented a distributed user activity tracking system using Java
-      - Developed and optimized string matching algorithms
-      - Conducted comprehensive analysis of existing codebase
-
 awards:
     name: Meta Back-end Developer Professional Certificate
     issuer: Coursera
