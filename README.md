@@ -16,13 +16,15 @@ links:
   github: github.com/ab-dauletkhan
   linkedin: linkedin.com/in/ab-dauletkhan
 
+experience:
+    title: Network Application Developer
+    company: 7Generation
+    period: Jan 2025 - Present
+
 education:
     degree: Bachelor of Science in Computer Science
     institution: Nazarbayev University, Astana, Kazakhstan
     period: Aug 2022 – Jun 2026
-    coursework: Software Engineering, Database Systems, Computer Systems and Organization,
-                Performance and Data Structures, Algorithms, Artificial Intelligence,
-                Formal Languages, Discrete Math, Linear Algebra, Probability
 
 awards:
     name: Meta Back-end Developer Professional Certificate
@@ -43,10 +45,10 @@ awards:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="python" width="45" height="45"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
-</p>
+ </p>
 <h4>Tools:</h4>
 <p align="left" class="tools">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
