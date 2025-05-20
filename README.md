@@ -21,20 +21,18 @@ experience:
     company: 7Generation
     period: Jan 2025 - Present
 
+    title: Full-Stack Engineer
+    company: Global Optima Technologies
+    period: Feb 2025 - April 2025
+
+    title: Back-end Engineer
+    company: AstanaHub
+    period: Dec 2023 - Feb 2024
+
 education:
     degree: Bachelor of Science in Computer Science
     institution: Nazarbayev University, Astana, Kazakhstan
     period: Aug 2022 – Jun 2026
-
-awards:
-    name: Meta Back-end Developer Professional Certificate
-    issuer: Coursera
-    date: Oct 2023 – Dec 2023
-
-    name: 'NeHackathon' by Ismet.kz
-    description: Hackathon Winner. 2nd place out of 40 teams
-    location: Astana, Kazakhstan
-    date: Feb 2023
 ```
 
 ---  
