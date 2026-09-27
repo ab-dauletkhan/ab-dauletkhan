@@ -1,0 +1,38 @@
+name: render
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency: render
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: diffs-${{ github.run_id }}
+          restore-keys: diffs-
+      - run: python3 render/render.py out
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          STATS_ROLE: backend engineer
+          STATS_HIDE_PRIVATE: "1"
+          STATS_TZ_HOURS: "5"
+          STATS_TZ_NAME: Astana
+      - name: publish to the output branch
+        working-directory: out
+        run: |
+          git init -q -b output
+          git add .
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "render stats"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output
