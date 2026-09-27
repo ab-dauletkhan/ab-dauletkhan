@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ab-dauletkhan/ab-dauletkhan/refs/heads/output/hero.svg" width="438" height="197" alt="Chapter card: commits, merge requests, reviews and lines added"> <img src="https://media.giphy.com/media/qrtxxe638kXlhKBDxg/giphy.webp" width="350" height="197" alt="Gojo, animated manga panel"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ab-dauletkhan/ab-dauletkhan/refs/heads/output/hero.svg" width="438" height="197" alt="Chapter card: commits, merge requests, reviews and lines added"> <img src="https://media.giphy.com/media/qrtxxe638kXlhKBDxg/giphy-downsized-medium.gif" width="350" height="197" alt="Gojo, animated manga panel"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ab-dauletkhan/ab-dauletkhan/refs/heads/output/daily.svg" width="794" height="248" alt="Contributions per day"></p>
 
